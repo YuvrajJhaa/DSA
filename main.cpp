@@ -109,8 +109,7 @@ int main() {
   // yuvi.setWeight(12);
   // cout << endl;
   // cout << yuvi.getWeight();
-  Animal a;
-  Dog d1;
+   
   d1.print();
   return 0;
 }
